@@ -33,3 +33,6 @@ Programming languages A - https://www.coursera.org/learn/programming-languages
 Programming languages B - https://www.coursera.org/learn/programming-languages-part-b
 
 programming languages C - https://www.coursera.org/learn/programming-languages-part-c
+
+
+Databases - https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about (1 month)
