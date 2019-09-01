@@ -16,6 +16,8 @@ Programming languages - A, B, and C
 
 Intro to computer science
 
+git and github
+
 ## 2nd term
 
 C programming
