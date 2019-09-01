@@ -1,4 +1,9 @@
 This session is divided into 8 terms. Each term is of 15 days.
+Focuse :: Programming ,Database concepts and basics of computer science.
+
+* Code everyday and minimum 1 problem from code chef or competitive programming sites.
+* Miniproject - 1/ week
+* Major project - 1/month
 
 ## 1st term
 Python
