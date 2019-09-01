@@ -28,6 +28,8 @@ Shell Scripting
 
 How to code - simple data
 
+Git and github
+
 ## 3rd term
 
 Data Structure
